@@ -1,0 +1,2 @@
+# KaryDrop
+Pc and android 
